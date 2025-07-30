@@ -107,9 +107,9 @@
 		}
 	},
 	"webmention": {
-		"webmention-api-key": "",
-		"webmention-link": ""
-	},
+  "webmention-api-key": "",
+  "webmention-link": ""
+}
 	"number-of-posts-per-page": 10,
 	"enable-lightbox": true,
 	"menu-pages-collection": "main",
