@@ -29,6 +29,9 @@ export const siteInfo: SiteConfig = {
 			year: "numeric",
 		},
 	},
+	if (config.webmention?.["webmention-api-key"]) {
+  // Use it
+}
 	webmentions: {
 		link: WEBMENTION_LINK,
 		// link: "https://webmention.io/astro-cactus.chriswilliams.dev/webmention",
