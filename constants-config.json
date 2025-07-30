@@ -32,7 +32,7 @@
 	  "buy-me-a-coffee": "",
 	  "custom-domain": "",
 	  "base-path": "",
-	"giscus": {
+		"giscus": {
 		"data-repo": "Frankvmp/Astro-notion-nerdymomcat",
 		"data-repo-id": "R_kgDOPVXoqQ",
 		"data-category": "Announcements",
